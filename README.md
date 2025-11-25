@@ -1,8 +1,13 @@
-# Welcome to your Expo app 👋
+## Overview
+CampusConnect is a mobile application developed as part of the Introduction to Software Innovation course at The University of Queensland. Built using npm-based tooling, the app aims to streamline the student experience by centralizing extracurricular and campus event information into a single, intuitive platform. It also integrates with the UQ class timetable, allowing students to manage both academic and social commitments seamlessly in one place.
 
+## Functionality
+Core functionality includes a consolidated event feed, the ability to add activities directly into a timetable-style planner, and a dedicated timetable view with export options (e.g., Google Calendar). Students can block out parts of their day, label them as busy, or add custom event details with optional location privacy controls. Additional features enhance personalization and collaboration, such as sharing timetables with friends, checking schedule compatibility, filtering out clashing events, and receiving recommendations based on free time, interests, field of study, club memberships, and event popularity.
+
+
+## How to run the Project
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
 
 1. Install dependencies
 
@@ -14,6 +19,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
    npx expo start
+   ```
+
+   if this doesn't work 
+
+   ```bash
+   cd directory
+   npm run start
    ```
 
 In the output, you'll find options to open the app in a
@@ -33,18 +45,3 @@ When you're ready, run:
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
