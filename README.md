@@ -56,9 +56,9 @@ npm run reset-project
 <img src="personalize.png" width="300"> -->
 
 <p float="left">
-  <img src="signin.png" width="275" />
-  <img src="myaccount.png" width="275" />
-  <img src="home.png" width="275" />
+  <img src="signin.png" width="270" />
+  <img src="myaccount.png" width="270" />
+  <img src="home.png" width="270" />
   <img src="timetable.png" width="300" />
   <img src="addevent.png" width="300" />
   <img src="eventlist.png" width="300" />
