@@ -46,8 +46,8 @@ npm run reset-project
 ```
 
 ## Sample UI 
-<img src="signin.png" width="300">
-<img src="myaccount.png" width="300">
+<img src="signin.png" width="200">
+<img src="myaccount.png" width="200">
 <img src="home.png" width="300">
 <img src="timetable.png" width="300">
 <img src="addevent.png" width="300">
