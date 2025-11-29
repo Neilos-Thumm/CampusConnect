@@ -59,11 +59,11 @@ npm run reset-project
   <img src="signin.png" width="270" />
   <img src="myaccount.png" width="270" />
   <img src="home.png" width="270" />
-  <img src="timetable.png" width="300" />
-  <img src="addevent.png" width="300" />
-  <img src="eventlist.png" width="300" />
-  <img src="friend.png" width="300" />
-  <img src="personalize.png" width="300" />
+  <img src="timetable.png" width="270" />
+  <img src="addevent.png" width="270" />
+  <img src="eventlist.png" width="270" />
+  <img src="friend.png" width="270" />
+  <img src="personalize.png" width="270" />
 </p>
 
 
